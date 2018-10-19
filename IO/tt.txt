@@ -1,0 +1,5 @@
+用例编号: itest001
+用例名称: 登录成功
+测试数据: 用户名:example;密码:example
+测试步骤: 略
+测试断言: 应该可以正确跳转到www.itest.info
